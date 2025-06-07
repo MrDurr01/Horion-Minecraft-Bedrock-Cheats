@@ -3,7 +3,7 @@ https://horion.download/
 
 # Horion
 
-A Minecraft: Bedrock Edition utility mod designed to enhance your gameplay by adding extra commands, GUI features, and quality‑of‑life improvements :contentReference[oaicite:0]{index=0}.
+A Minecraft: Bedrock Edition utility mod designed to enhance your gameplay by adding extra commands, GUI features, and quality‑of‑life improvements
 
 ---
 
@@ -22,7 +22,7 @@ A Minecraft: Bedrock Edition utility mod designed to enhance your gameplay by ad
 Get the latest release directly from the official site:
 
 - **Website:** https://horion.download/  
-- **GitHub Releases:** https://github.com/CortexPE/Horion/releases :contentReference[oaicite:1]{index=1}
+- **GitHub Releases:** https://github.com/CortexPE/Horion/releases
 
 ---
 
@@ -30,8 +30,7 @@ Get the latest release directly from the official site:
 
 1. **Download**  
    - Click **Download** on the homepage to grab the **Injector** or the raw **`.dll`** file.  
-   - Or grab the latest tagged release from GitHub. :contentReference[oaicite:2]{index=2}
-
+   - Or grab the latest tagged release from GitHub. 
 2. **Inject**  
    - **Via Injector:**  
      1. Launch your chosen injector.  
@@ -50,7 +49,7 @@ Get the latest release directly from the official site:
 ## 🎮 Usage
 
 - **.help**  
-  List all Horion chat commands and get syntax auto‑completion :contentReference[oaicite:3]{index=3}.
+  List all Horion chat commands and get syntax auto‑completion 
 - **.bind** / **.unbind**  
   Bind modules to keys:  
 
